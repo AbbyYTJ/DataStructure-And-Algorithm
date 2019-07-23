@@ -1,7 +1,7 @@
 # 数据结构与算法-学习笔记
 
 - 1 线性结构
-  - 1.1 数组
+  - 1.1 [数组](https://github.com/AbbyYTJ/DataStructure-And-Algorithm/tree/master/Part1%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/C01%E6%95%B0%E7%BB%84/Array_Java)
   - 1.2 栈和队列
   - 1.3 链表
   - 1.4 链表和递归
